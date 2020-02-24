@@ -17,6 +17,7 @@
 -  [Node.js](https://nodejs.org/en/)
 -  [Express](https://expressjs.com/)
 -  [nodemon](https://nodemon.io/)
+-  [Insomnia](https://insomnia.rest/)
 
 ## :memo: License
 Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/lukemorales/gobarber-api/blob/master/LICENSE) para mais informações.
