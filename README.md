@@ -17,6 +17,7 @@
 -  [Node.js](https://nodejs.org/en/)
 -  [Express](https://expressjs.com/)
 -  [nodemon](https://nodemon.io/)
+-  [Visual Studio Code](https://code.visualstudio.com/)
 -  [Insomnia](https://insomnia.rest/)
 
 ## :memo: License
