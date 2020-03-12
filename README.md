@@ -21,7 +21,7 @@
 -  [Insomnia](https://insomnia.rest/)
 
 ## :memo: License
-Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/lukemorales/gobarber-api/blob/master/LICENSE) para mais informações.
+Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/belapferreira/desafio01-conceitos-nodejs/blob/master/LICENSE) para mais informações.
 
 ---
 
